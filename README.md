@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0984-string-without-aaa-or-bbb) |
 | [1143-longest-common-subsequence](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0606-construct-string-from-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
