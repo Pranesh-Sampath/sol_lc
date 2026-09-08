@@ -36,9 +36,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0165-compare-version-numbers) |
+## Array
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
