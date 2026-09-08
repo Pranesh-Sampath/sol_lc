@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1143-longest-common-subsequence) |
 ## Tree
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
