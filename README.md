@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
 ## Math
 |  |
 | ------- |
