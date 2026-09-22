@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
