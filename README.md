@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
+| [1224-maximum-equal-frequency](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1224-maximum-equal-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1224-maximum-equal-frequency](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1224-maximum-equal-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
 ## Math
