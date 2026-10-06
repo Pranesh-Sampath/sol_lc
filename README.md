@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1224-maximum-equal-frequency](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1224-maximum-equal-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pranesh-Sampath/sol_lc/tree/master/0560-subarray-sum-equals-k) |
 | [1224-maximum-equal-frequency](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1224-maximum-equal-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Pranesh-Sampath/sol_lc/tree/master/1695-maximum-erasure-value) |
